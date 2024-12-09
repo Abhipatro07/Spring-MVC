@@ -1,0 +1,151 @@
+20-Sep-2024 11:18:58.075 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.24
+20-Sep-2024 11:18:58.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2024 17:41:23 UTC
+20-Sep-2024 11:18:58.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.24.0
+20-Sep-2024 11:18:58.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+20-Sep-2024 11:18:58.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 11:18:58.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 11:18:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot
+20-Sep-2024 11:18:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+7
+20-Sep-2024 11:18:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+20-Sep-2024 11:18:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:18:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:18:58.093 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\J2EE\New folder\apache-tomcat-10.1.24\conf\logging.properties
+20-Sep-2024 11:18:58.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 11:18:58.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Sep-2024 11:18:58.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Sep-2024 11:18:58.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Sep-2024 11:18:58.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Sep-2024 11:18:58.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Sep-2024 11:18:58.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Sep-2024 11:18:58.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Sep-2024 11:18:58.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:18:58.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:18:58.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\J2EE\New folder\apache-tomcat-10.1.24\temp
+20-Sep-2024 11:18:58.101 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;E:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\oracle\product\10.2.0\db_1\jdk\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\nodejs\;C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\DELL\AppData\Roaming\npm;.]
+20-Sep-2024 11:18:58.375 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:18:58.423 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [541] milliseconds
+20-Sep-2024 11:19:06.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.24
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2024 17:41:23 UTC
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.24.0
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+7
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\J2EE\New folder\apache-tomcat-10.1.24\conf\logging.properties
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\J2EE\New folder\apache-tomcat-10.1.24\temp
+20-Sep-2024 11:19:06.586 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;E:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\oracle\product\10.2.0\db_1\jdk\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\nodejs\;C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\DELL\AppData\Roaming\npm;.]
+20-Sep-2024 11:19:06.801 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:06.830 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [425] milliseconds
+20-Sep-2024 11:19:06.891 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 11:19:06.892 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.24]
+20-Sep-2024 11:19:06.899 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\docs]
+20-Sep-2024 11:19:07.294 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\docs] has finished in [389] ms
+20-Sep-2024 11:19:07.294 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\examples]
+20-Sep-2024 11:19:08.733 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\examples] has finished in [1,439] ms
+20-Sep-2024 11:19:08.735 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\host-manager]
+20-Sep-2024 11:19:08.789 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\host-manager] has finished in [54] ms
+20-Sep-2024 11:19:08.789 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\manager]
+20-Sep-2024 11:19:08.841 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\manager] has finished in [52] ms
+20-Sep-2024 11:19:08.841 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\ROOT]
+20-Sep-2024 11:19:08.859 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\ROOT] has finished in [18] ms
+20-Sep-2024 11:19:08.872 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:08.913 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2082] milliseconds
+20-Sep-2024 11:19:17.040 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.24
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2024 17:41:23 UTC
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.24.0
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+7
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:17.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:17.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\J2EE\New folder\apache-tomcat-10.1.24\conf\logging.properties
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\J2EE\New folder\apache-tomcat-10.1.24\temp
+20-Sep-2024 11:19:17.060 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;E:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\oracle\product\10.2.0\db_1\jdk\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\nodejs\;C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\DELL\AppData\Roaming\npm;.]
+20-Sep-2024 11:19:17.263 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:17.310 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [454] milliseconds
+20-Sep-2024 11:19:17.356 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 11:19:17.356 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.24]
+20-Sep-2024 11:19:17.372 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\docs]
+20-Sep-2024 11:19:17.765 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\docs] has finished in [391] ms
+20-Sep-2024 11:19:17.765 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\examples]
+20-Sep-2024 11:19:18.091 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\examples] has finished in [326] ms
+20-Sep-2024 11:19:18.093 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\host-manager]
+20-Sep-2024 11:19:18.138 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\host-manager] has finished in [45] ms
+20-Sep-2024 11:19:18.138 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\manager]
+20-Sep-2024 11:19:18.182 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\manager] has finished in [44] ms
+20-Sep-2024 11:19:18.182 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\ROOT]
+20-Sep-2024 11:19:18.212 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\ROOT] has finished in [30] ms
+20-Sep-2024 11:19:18.218 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:18.271 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [954] milliseconds
+20-Sep-2024 11:19:25.590 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.24
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 9 2024 17:41:23 UTC
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.24.0
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+7
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:25.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\J2EE\New folder\apache-tomcat-10.1.24\conf\logging.properties
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\J2EE\New folder\apache-tomcat-10.1.24
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\J2EE\New folder\apache-tomcat-10.1.24\temp
+20-Sep-2024 11:19:25.616 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;E:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\oracle\product\10.2.0\db_1\jdk\bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files\nodejs\;C:\Users\DELL\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot\bin;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\DELL\AppData\Roaming\npm;.]
+20-Sep-2024 11:19:25.835 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:25.884 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [449] milliseconds
+20-Sep-2024 11:19:25.942 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 11:19:25.943 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.24]
+20-Sep-2024 11:19:25.951 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\docs]
+20-Sep-2024 11:19:26.275 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\docs] has finished in [324] ms
+20-Sep-2024 11:19:26.275 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\examples]
+20-Sep-2024 11:19:26.572 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\examples] has finished in [297] ms
+20-Sep-2024 11:19:26.572 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\host-manager]
+20-Sep-2024 11:19:26.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\host-manager] has finished in [31] ms
+20-Sep-2024 11:19:26.603 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\manager]
+20-Sep-2024 11:19:26.634 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\manager] has finished in [31] ms
+20-Sep-2024 11:19:26.634 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\ROOT]
+20-Sep-2024 11:19:26.650 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\J2EE\New folder\apache-tomcat-10.1.24\webapps\ROOT] has finished in [16] ms
+20-Sep-2024 11:19:26.668 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:26.712 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [826] milliseconds
+20-Sep-2024 11:19:33.170 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Sep-2024 11:19:33.172 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:33.178 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Sep-2024 11:19:33.202 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 11:19:33.221 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
