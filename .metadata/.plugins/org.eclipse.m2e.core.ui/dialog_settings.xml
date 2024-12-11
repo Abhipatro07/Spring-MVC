@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\J2EE\Spring MVC\Buildiing_data_using_model_interface"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,13 +26,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="jsp.Spring.Spring_MVC_Demo"/>
 		</list>
 		<list key="groupId">
-			<item value="jsp.Spring"/>
 		</list>
 		<list key="artifactId">
-			<item value="Spring_MVC_Demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
