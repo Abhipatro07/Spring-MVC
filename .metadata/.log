@@ -5504,3 +5504,13 @@ Binding(ALT+SHIFT+D R,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2024-12-12 13:30:03.484
+!MESSAGE Could not publish server configuration for Tomcat v10.1 Server at localhost (6).
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2024-12-12 13:30:03.484
+!MESSAGE Multiple Contexts have a path of "/Spring_MVC_Demo".
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2024-12-12 13:30:15.865
+!MESSAGE Could not publish server configuration for Tomcat v10.1 Server at localhost (6).
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2024-12-12 13:30:15.865
+!MESSAGE Multiple Contexts have a path of "/Spring_MVC_Demo".
