@@ -26,10 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="jsp.Spring.Building_data_using_model_interface_for_product"/>
 		</list>
 		<list key="groupId">
+			<item value="jsp.Spring"/>
 		</list>
 		<list key="artifactId">
+			<item value="Building_data_using_model_interface_for_product"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
